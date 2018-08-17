@@ -1,0 +1,8 @@
+#ignores
+./idea/*
+/Notas.txt
+/pruebas.py
+/scriptUI.py
+
+
+
